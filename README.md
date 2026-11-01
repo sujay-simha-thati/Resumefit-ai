@@ -47,4 +47,5 @@ Machine learning models require mathematical inputs. The cleaned text strings ar
 3. Dual-Audience Utility: It perfectly highlights product empathy—showing you built a tool that can be white-labeled for enterprise HR or given to university career centers for student testing.
 Would you like to write the complete source code for pipeline.py next so you can see exactly how the PDF parsing and vector math work together in Python?
 
+Here's the application link:https://resumefit-ai-fue8edmzny7tgf4untmnez.streamlit.app/
 

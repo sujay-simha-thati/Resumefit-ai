@@ -338,7 +338,7 @@ with col1:
 
     # 📂 LEFT BOTTOM BOX: PDF Ingestion Panel
     st.markdown('<div class="saas-card" style="margin-top: 1rem;">', unsafe_allow_html=True)
-    st.markdown('<div class="saas-card-title">📂 2. Candidate\'s resume pdf pettu result vattu</div>', unsafe_allow_html=True)
+    st.markdown('<div class="saas-card-title">📂 2. Candidate\'s resume pdf </div>', unsafe_allow_html=True)
     uploaded_files = st.file_uploader(
         "Upload Unstructured Candidate PDF Resumes",
         type=["pdf"],
